@@ -1,0 +1,87 @@
+@Estudiantes_HostAddress = http://localhost:5098
+
+GET {{Estudiantes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+Get {{Estudiantes_HostAddress}}/api/estudiantes
+Accept: application/json
+
+
+###
+Get {{Estudiantes_HostAddress}}/api/estudiantes/1
+Accept: application/json
+
+###
+POST  {{Estudiantes_HostAddress}}/api/estudiantes
+Content-Type: application/json
+
+{
+    "nombre":"Noelia sanches",
+    "carrera": "Medicina",
+    "promedio": 93
+}
+
+###
+PUT {{Estudiantes_HostAddress}}/api/estudiantes/3
+Content-Type: application/json
+
+{
+  "nombre": "Noelia sanches",
+  "carrera": "Medicina",
+  "promedio": 93
+
+}
+###
+DELETE {{Estudiantes_HostAddress}}/api/estudiantes/3
+
+########################   MATERIAS
+
+### 
+GET {{Estudiantes_HostAddress}}/api/materias
+Accept: application/json
+
+### 
+GET {{Estudiantes_HostAddress}}/api/materias/1
+Accept: application/json
+
+### 
+GET {{Estudiantes_HostAddress}}/api/materias/9999999
+Accept: application/json
+
+### 
+GET {{Estudiantes_HostAddress}}/api/materias/buscar?nombre=Datos
+Accept: application/json
+
+###
+GET {{Estudiantes_HostAddress}}/api/materias/buscar?creditos=6
+Accept: application/json
+
+###
+GET {{Estudiantes_HostAddress}}/api/materias/buscar
+Accept: application/json
+
+###
+POST {{Estudiantes_HostAddress}}/api/materias
+Content-Type: application/json
+
+{
+  "nombre": "Redes de Computadoras",
+  "sigla": "SIS-0120",
+  "creditos": 6
+}
+
+###
+PUT {{Estudiantes_HostAddress}}/api/materias/4
+Content-Type: application/json
+
+{
+  "nombre": "Tecnología Web II Actualizada",
+  "sigla": "SIS-0151",
+  "creditos": 8
+}
+
+### 
+DELETE {{Estudiantes_HostAddress}}/api/materias/4
+
+

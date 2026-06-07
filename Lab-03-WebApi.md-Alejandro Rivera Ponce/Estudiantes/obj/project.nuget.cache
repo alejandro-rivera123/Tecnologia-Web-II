@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RMJZ+Sofnc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejandro\\Documents\\Tegnologia web 2\\Lab-03\\Estudiantes\\Estudiantes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

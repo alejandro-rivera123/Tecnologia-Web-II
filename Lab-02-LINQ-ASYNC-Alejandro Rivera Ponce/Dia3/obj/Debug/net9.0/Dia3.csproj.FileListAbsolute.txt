@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\bin\Debug\net9.0\Dia3.exe
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\bin\Debug\net9.0\Dia3.deps.json
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\bin\Debug\net9.0\Dia3.runtimeconfig.json
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\bin\Debug\net9.0\Dia3.dll
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\bin\Debug\net9.0\Dia3.pdb
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.dll
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\refint\Dia3.dll
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.pdb
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\Dia3.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Tegnologia web 2\prueba\Dia3\obj\Debug\net9.0\ref\Dia3.dll
